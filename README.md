@@ -1,16 +1,16 @@
 - 👋 Hi, I'm @Yangpaul-583
   
 - About Me
-👀 I'm interested in bioinformatics, data analysis, and scientific research.
-🌱 I'm currently learning advanced bioinformatics techniques and programming languages like Python and R.
+- 👀 I'm interested in bioinformatics, data analysis, and scientific research.
+- 🌱 I'm currently learning advanced bioinformatics techniques and programming languages like Python and R.
 
 - Collaboration
-💞️ I'm looking to collaborate on bioinformatics projects, tool development, and research papers.
+- 💞️ I'm looking to collaborate on bioinformatics projects, tool development, and research papers.
 
 - 📫 How to reach me:
-Email: yangpaul583@gmail.com
-Bilibili: https://space.bilibili.com/480373493
-RED (Xiaohongshu): https://www.xiaohongshu.com/user/profile/65e8e98e000000000500adfe?xhsshare=CopyLink&appuid=65e8e98e000000000500adfe&apptime=1717641946
+- Email: yangpaul583@gmail.com
+- Bilibili: https://space.bilibili.com/480373493
+- RED (Xiaohongshu): https://www.xiaohongshu.com/user/profile/65e8e98e000000000500adfe?xhsshare=CopyLink&appuid=65e8e98e000000000500adfe&apptime=1717641946
 
 - 😄 Pronouns: He
   
