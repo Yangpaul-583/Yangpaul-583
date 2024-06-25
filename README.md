@@ -9,8 +9,6 @@
 
 - 📫 How to reach me:
 - Email: yangpaul583@gmail.com
-- Bilibili: https://space.bilibili.com/480373493
-- RED (Xiaohongshu): https://www.xiaohongshu.com/user/profile/65e8e98e000000000500adfe?xhsshare=CopyLink&appuid=65e8e98e000000000500adfe&apptime=1717641946
 
 - 😄 Pronouns: He
   
