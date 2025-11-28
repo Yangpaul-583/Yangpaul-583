@@ -1,20 +1,63 @@
-- 👋 Hi, I'm @Yangpaul-583
-  
-- About Me
-- 👀 I'm interested in bioinformatics, data analysis, and scientific research.
-- 🌱 I'm currently learning advanced bioinformatics techniques and programming languages like Python and R.
+<h1 align="center">Hi, I'm Paul 👋</h1>
 
-- Collaboration
-- 💞️ I'm looking to collaborate on bioinformatics projects, tool development, and research papers.
+<p align="center">
+  <b>Dental student</b> from Shanghai · Exploring <b>AI/ML</b> & <b>app development</b>
+</p>
 
-- 📫 How to reach me:
-- Email: yangpaul583@gmail.com
+---
 
-- 😄 Pronouns: He
-  
-- ⚡ Fun fact: I once spent 24 hours analyzing a genome sequence and discovered a novel gene variant!
+## 🧑‍💻 About Me
 
-<!---
-Yangpaul-583/Yangpaul-583 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🦷 Dental student curious about how tech can improve healthcare
+- 🤖 Learning and building with **AI/ML**
+- 📱 Exploring **apps** with **Python**, **JavaScript**, and **Swift**
+- 🌏 Based in **Shanghai**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+</p>
+
+### Tools & Interests
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML-000000?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Development-4285F4?logo=apple&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Yangpaul-583&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangpaul-583&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    height="160"
+  />
+</p>
+
+---
+
+## 🚀 What I'm Currently Doing
+
+- 📚 Balancing **dental school** with **coding projects**
+- 🧪 Experimenting with **AI/ML** for study or productivity tools
+- 💡 Thinking about apps that can help **students** and **patients**
+
+---
+
+## 📫 Get in Touch
+
+- 💬 Feel free to open an issue or discussion on any of my repos
+- 🔍 Always open to learning, feedback, and collaboration
